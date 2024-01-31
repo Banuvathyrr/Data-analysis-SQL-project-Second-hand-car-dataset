@@ -1,4 +1,5 @@
 # DATA ANALYSIS OF SECOND HAND CAR DEALER DATASET
+  
   **INSIGHTS**  
        -- 1) Average Selling price of Electric vehicle is high compared to the Diesel, Petrol, CNG and LPG.  
        -- 2) The number of Manual transmissions is greater than the number of Automatic transmissions.  
